@@ -40,5 +40,5 @@ Contributions are welcome! Please read the CONTRIBUTING.md file for more details
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Acknowledgement
-Special thanks to tinkter for their comprehensive gui library.
-Appreciation to all contributors and testers for making this game better.
+-Special thanks to tinkter for their comprehensive gui library.
+-Appreciation to all contributors and testers for making this better.
